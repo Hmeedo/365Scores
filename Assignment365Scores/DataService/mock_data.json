@@ -1,0 +1,3286 @@
+{
+  "LastUpdateID": 4719004638,
+  "Games": [
+    {
+      "SID": 1,
+      "ID": 3833266,
+      "Comp": 11,
+      "Season": 95,
+      "Stage": 1,
+      "Active": false,
+      "STID": 3,
+      "StatusSequence": -1,
+      "GT": 90.0,
+      "PreciseGT": 90.0,
+      "AutoProgressGT": false,
+      "Completion": 100.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "27-01-2024 19:30",
+      "ETime": "27-01-2024 19:20",
+      "Comps": [
+        {
+          "ID": 132,
+          "Name": "FC Barcelona",
+          "SName": "Barcelona",
+          "SymbolicName": "BAR",
+          "TitleName": "Barcelona",
+          "NameForURL": "fc-barcelona",
+          "CID": 2,
+          "SID": 1,
+          "Color": "#A50044",
+          "Color2": "#9D1009",
+          "AwayColor": "#DCF46A",
+          "AwayColor2": "#DCF46A",
+          "TextColor": "#FFFFFF",
+          "MainComp": 11,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            4,
+            1,
+            1,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 64083,
+          "ImgVer": 3,
+          "ChatUrl": "C-132_365scores_prod"
+        },
+        {
+          "ID": 133,
+          "Name": "Villarreal",
+          "SymbolicName": "VIL",
+          "TitleName": "Villarreal",
+          "NameForURL": "villarreal",
+          "CID": 2,
+          "SID": 1,
+          "Color": "#FDCE26",
+          "Color2": "#FFFF00",
+          "AwayColor": "#FF5BB3",
+          "AwayColor2": "#FF5BB3",
+          "TextColor": "#FFFFFF",
+          "MainComp": 11,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            2,
+            0,
+            4,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 7825,
+          "ImgVer": 1,
+          "ChatUrl": "C-133_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        3.0,
+        5.0,
+        0.0,
+        1.0,
+        3.0,
+        5.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 22,
+      "EventsCategories": 2,
+      "TVNetworks": [
+        {
+          "NetworkID": 63,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "HasBetsTeaser": true,
+      "Winner": 2,
+      "HasTrends": true,
+      "TopTrendsAvailable": false,
+      "Attendance": 46229,
+      "HasStatistics": true,
+      "HasLineups": true,
+      "HasDoubtful": false,
+      "HasFieldPositions": true,
+      "HasTopPerformers": false,
+      "HasMissingPlayers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": true,
+      "HasNews": true,
+      "HasBuzz": true,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 60253,
+        "VoteX": 6567,
+        "Vote2": 16713
+      },
+      "ShowTracker": true,
+      "HasTable": true,
+      "WidgetsProviders": [
+        "OPTA_LAW",
+        "SportRadarLMT_V3",
+        "SportRadarMomentum_V3"
+      ],
+      "HomeAwayTeamOrder": 1,
+      "HasChartEvents": true,
+      "RoundName": "Round",
+      "ChatUrl": "G-3833266_365scores_prod",
+      "WebUrl": "https://365scores.com/football/spain/laliga/match/fc-barcelona-villarreal/132-133-11#id=3833266?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3884996,
+      "Comp": 5794,
+      "Season": 85,
+      "Stage": 1,
+      "Active": true,
+      "STID": 8,
+      "StatusSequence": -1,
+      "GT": 72.0,
+      "PreciseGT": 71.08,
+      "AutoProgressGT": true,
+      "Completion": 80.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "72'",
+      "STime": "29-01-2024 14:30",
+      "ETime": "29-01-2024 14:20",
+      "Comps": [
+        {
+          "ID": 49773,
+          "Name": "KF Egnatia",
+          "SymbolicName": "EGN",
+          "NameForURL": "kf-egnatia",
+          "CID": 76,
+          "SID": 1,
+          "Color": "#21282D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 5794,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "Type": 1,
+          "PopularityRank": 5,
+          "ImgVer": 3,
+          "ChatUrl": "C-49773_365scores_prod"
+        },
+        {
+          "ID": 24954,
+          "Name": "Erzeni Shijak",
+          "SymbolicName": "ERZ",
+          "NameForURL": "erzeni-shijak",
+          "CID": 76,
+          "SID": 1,
+          "Color": "#21282D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 5794,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            0,
+            2,
+            1,
+            2
+          ],
+          "Type": 1,
+          "PopularityRank": 3,
+          "ImgVer": 3
+        }
+      ],
+      "Scrs": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 21,
+      "Events": [
+        {
+          "Type": 0,
+          "SType": 0,
+          "Num": 1,
+          "Comp": 2,
+          "GT": 5.0,
+          "GTD": "5'",
+          "AddedTime": 0,
+          "GameCompletion": 5.56,
+          "Player": "Y. Bnou M.",
+          "Status": 6,
+          "IsDel": false,
+          "EventOrder": 1,
+          "PBPEventKey": "71354319_0_5"
+        },
+        {
+          "Type": 0,
+          "SType": 0,
+          "Num": 2,
+          "Comp": 1,
+          "GT": 59.0,
+          "GTD": "59'",
+          "AddedTime": 0,
+          "GameCompletion": 65.56,
+          "Player": "S. Spahiu",
+          "Status": 8,
+          "IsDel": false,
+          "EventOrder": 2,
+          "PBPEventKey": "70985791_0_59"
+        }
+      ],
+      "EventsCategories": 1,
+      "OnTV": false,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": false,
+      "Venue": {
+        "ID": 10365,
+        "Name": "Arena Egnatia",
+        "SName": "arena-egnatia"
+      },
+      "HasLineups": true,
+      "HasFieldPositions": false,
+      "HasTopPerformers": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 301,
+        "VoteX": 100,
+        "Vote2": 59
+      },
+      "ShowTracker": true,
+      "HasTable": true,
+      "HasLiveTable": true,
+      "WidgetsProviders": [
+        "SportRadarLMT_V3",
+        "SportRadarMomentum_V3"
+      ],
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/albania/superliga/match/erzeni-shijak-kf-egnatia/24954-49773-5794#id=3884996?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3885403,
+      "Comp": 7540,
+      "Season": 12,
+      "Stage": 1,
+      "Active": true,
+      "STID": 8,
+      "StatusSequence": -1,
+      "GT": 70.0,
+      "PreciseGT": 69.56,
+      "AutoProgressGT": true,
+      "Completion": 77.78,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "70'",
+      "STime": "29-01-2024 14:30",
+      "ETime": "29-01-2024 14:20",
+      "Comps": [
+        {
+          "ID": 16049,
+          "Name": "Bylis Ballsh",
+          "SymbolicName": "BYL",
+          "NameForURL": "bylis-ballsh",
+          "CID": 76,
+          "SID": 1,
+          "Color": "#21282D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 7540,
+          "CompetitionHasTexture": false,
+          "Trend": [
+            0,
+            2,
+            0,
+            1,
+            3
+          ],
+          "Type": 1,
+          "PopularityRank": 8,
+          "ImgVer": 1
+        },
+        {
+          "ID": 21894,
+          "Name": "Fk Vora",
+          "SName": "Vora",
+          "SymbolicName": "VOR",
+          "NameForURL": "fk-vora",
+          "CID": 76,
+          "SID": 1,
+          "Color": "#21282D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 7540,
+          "CompetitionHasTexture": false,
+          "Trend": [
+            1,
+            1,
+            1,
+            4,
+            2
+          ],
+          "Type": 1,
+          "PopularityRank": 0,
+          "ImgVer": 1
+        }
+      ],
+      "Scrs": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 18,
+      "Events": [
+        {
+          "Type": 0,
+          "SType": 0,
+          "Num": 1,
+          "Comp": 1,
+          "GT": 39.0,
+          "GTD": "39'",
+          "AddedTime": 0,
+          "GameCompletion": 43.33,
+          "Player": "Felipe Souza",
+          "Status": 6,
+          "IsDel": false,
+          "EventOrder": 1,
+          "PBPEventKey": "71384182_0_39"
+        }
+      ],
+      "EventsCategories": 1,
+      "OnTV": false,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": false,
+      "Venue": {
+        "ID": 0,
+        "Name": "Stadiumi Adush Muçaj",
+        "SName": "stadiumi-adush-mucaj"
+      },
+      "HasTopPerformers": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 35,
+        "VoteX": 25,
+        "Vote2": 20
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HasLiveTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/albania/league-1/match/bylis-ballsh-fk-vora/16049-21894-7540#id=3885403?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 4025145,
+      "Comp": 8056,
+      "Season": 1,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "29-01-2024 20:00",
+      "ETime": "29-01-2024 19:50",
+      "Countdown": 14458,
+      "ShowCountdown": true,
+      "Comps": [
+        {
+          "ID": 5457,
+          "Name": "Al Hilal Riyadh",
+          "SName": "Al-Hilal",
+          "SymbolicName": "HIL",
+          "TitleName": "Al Hilal",
+          "NameForURL": "al-hilal-riyadh",
+          "CID": 122,
+          "SID": 1,
+          "Color": "#0D358B",
+          "Color2": "#FFFFFF",
+          "AwayColor": "#FFFFFF",
+          "AwayColor2": "#0080FF",
+          "TextColor": "#FFFFFF",
+          "MainComp": 649,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 13212,
+          "ImgVer": 9,
+          "ChatUrl": "C-5457_365scores_prod"
+        },
+        {
+          "ID": 54729,
+          "Name": "Inter Miami",
+          "SymbolicName": "MIA",
+          "TitleName": "Miami",
+          "NameForURL": "inter-miami",
+          "CID": 327,
+          "SID": 1,
+          "Color": "#21282D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 104,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            2,
+            0,
+            0,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 3177,
+          "ImgVer": 1,
+          "ChatUrl": "C-54729_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "OnTV": false,
+      "HasBets": false,
+      "HasBetsTeaser": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "PromotedPredictions": {
+        "Predictions": [
+          {
+            "ID": -746303456,
+            "LineTypeID": 1,
+            "VotingKey": "http://www.365scores.com/Objects/Game/WWW/?GameID=4025145",
+            "Votes": [
+              158626,
+              16252,
+              153833
+            ],
+            "ShowVotesCount": true
+          }
+        ],
+        "RequestedUpdateID": -1,
+        "LastUpdateID": 4719004638
+      },
+      "Venue": {
+        "ID": 13772,
+        "Name": "Kingdom Arena",
+        "SName": "kingdom-arena"
+      },
+      "HasDoubtful": true,
+      "HasTopPerformers": false,
+      "HasMissingPlayers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 158626,
+        "VoteX": 16252,
+        "Vote2": 153833
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "EditorsChoice": true,
+      "ChatUrl": "G-4025145_365scores_prod",
+      "EditorsPromotedOdds": true,
+      "EditorsShowSportType": true,
+      "WebUrl": "https://365scores.com/football/international/riyadh-season-cup/match/al-hilal-riyadh-inter-miami/5457-54729-8056#id=4025145?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828056,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "30-01-2024 19:00",
+      "ETime": "30-01-2024 18:50",
+      "Comps": [
+        {
+          "ID": 569,
+          "Name": "SC Ashdod",
+          "SymbolicName": "FCA",
+          "TitleName": "Ashdod",
+          "NameForURL": "sc-ashdod",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#DD0301",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            2,
+            1,
+            0,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 195,
+          "ImgVer": 1,
+          "ChatUrl": "C-569_365scores_prod"
+        },
+        {
+          "ID": 45617,
+          "Name": "Maccabi Bnei Reineh",
+          "SymbolicName": "MBR",
+          "TitleName": "M. Bnei Reineh",
+          "NameForURL": "maccabi-bnei-reineh",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#21282D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            2,
+            1,
+            2,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 48,
+          "ImgVer": 3
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 2,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 262,
+        "VoteX": 83,
+        "Vote2": 333
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/maccabi-bnei-reineh-sc-ashdod/569-45617-42#id=3828056?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828061,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "30-01-2024 19:45",
+      "ETime": "30-01-2024 19:35",
+      "Comps": [
+        {
+          "ID": 560,
+          "Name": "Maccabi Netanya",
+          "SymbolicName": "NET",
+          "TitleName": "Netanya",
+          "NameForURL": "maccabi-netanya",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#F4CE17",
+          "Color2": "#000000",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 309,
+          "ImgVer": 7,
+          "ChatUrl": "C-560_365scores_prod"
+        },
+        {
+          "ID": 561,
+          "Name": "Bnei Sakhnin",
+          "SymbolicName": "BNS",
+          "TitleName": "Sakhnin",
+          "NameForURL": "bnei-sakhnin",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#B90101",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            4,
+            2,
+            0,
+            2,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 393,
+          "ImgVer": 2,
+          "ChatUrl": "C-561_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 5273,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": false,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 814,
+        "VoteX": 116,
+        "Vote2": 265
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/bnei-sakhnin-maccabi-netanya/560-561-42#id=3828061?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828058,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "30-01-2024 20:00",
+      "ETime": "30-01-2024 19:50",
+      "Comps": [
+        {
+          "ID": 559,
+          "Name": "Beitar Jerusalem",
+          "SymbolicName": "BEI",
+          "TitleName": "B. Jerusalem",
+          "NameForURL": "beitar-jerusalem",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#FDC90D",
+          "Color2": "#FDC90D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            1,
+            0,
+            1,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 925,
+          "ImgVer": 2,
+          "ChatUrl": "C-559_365scores_prod"
+        },
+        {
+          "ID": 571,
+          "Name": "Hapoel Petah Tikva",
+          "SymbolicName": "HPT",
+          "TitleName": "H. Petah Tikva",
+          "NameForURL": "hapoel-petah-tikva",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#2D4585",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            2,
+            0,
+            1,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 133,
+          "ImgVer": 4
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 5272,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": false,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 2440,
+        "VoteX": 110,
+        "Vote2": 511
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/beitar-jerusalem-hapoel-petah-tikva/559-571-42#id=3828058?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828055,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "31-01-2024 19:00",
+      "ETime": "31-01-2024 18:50",
+      "Comps": [
+        {
+          "ID": 564,
+          "Name": "Maccabi Petah Tikva",
+          "SymbolicName": "MPT",
+          "TitleName": "M. Petah Tikva",
+          "NameForURL": "maccabi-petah-tikva",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#054BC4",
+          "Color2": "#000099",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            3,
+            2,
+            0,
+            0,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 208,
+          "ImgVer": 2
+        },
+        {
+          "ID": 627,
+          "Name": "Hapoel Hadera",
+          "SymbolicName": "HAD",
+          "TitleName": "H. Hadera",
+          "NameForURL": "hapoel-hadera",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#ED0000",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            2,
+            0,
+            0,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 107,
+          "ImgVer": 2
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 2,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 159,
+        "VoteX": 48,
+        "Vote2": 108
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/hapoel-hadera-maccabi-petah-tikva/564-627-42#id=3828055?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828057,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "31-01-2024 19:45",
+      "ETime": "31-01-2024 19:35",
+      "Comps": [
+        {
+          "ID": 575,
+          "Name": "Hapoel Haifa",
+          "SymbolicName": "HHA",
+          "TitleName": "H. Haifa",
+          "NameForURL": "hapoel-haifa",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#DD0301",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            3,
+            2,
+            1,
+            1,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 264,
+          "ImgVer": 1,
+          "ChatUrl": "C-575_365scores_prod"
+        },
+        {
+          "ID": 567,
+          "Name": "Hapoel Tel Aviv",
+          "SymbolicName": "HTA",
+          "TitleName": "H. Tel Aviv",
+          "NameForURL": "hapoel-tel-aviv",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#CC0000",
+          "Color2": "#FFFFFF",
+          "AwayColor": "#FFFFFF",
+          "AwayColor2": "#FF0000",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            4,
+            0,
+            0,
+            0,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 691,
+          "ImgVer": 4,
+          "ChatUrl": "C-567_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 4,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 384,
+        "VoteX": 71,
+        "Vote2": 433
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/hapoel-haifa-hapoel-tel-aviv/567-575-42#id=3828057?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828059,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "31-01-2024 20:00",
+      "ETime": "31-01-2024 19:50",
+      "Comps": [
+        {
+          "ID": 566,
+          "Name": "Maccabi Tel Aviv",
+          "SymbolicName": "MTA",
+          "TitleName": "M. Tel Aviv",
+          "NameForURL": "maccabi-tel-aviv",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#FFDA00",
+          "Color2": "#FFFFFF",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            3,
+            2,
+            1,
+            2
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 1969,
+          "ImgVer": 6,
+          "ChatUrl": "C-566_365scores_prod"
+        },
+        {
+          "ID": 614,
+          "Name": "Hapoel Jerusalem",
+          "SymbolicName": "HJE",
+          "TitleName": "H. Jerusalem",
+          "NameForURL": "hapoel-jerusalem",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#000000",
+          "Color2": "#FF0000",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            3,
+            0,
+            0,
+            2,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 106,
+          "ImgVer": 9
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 5272,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": false,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 1665,
+        "VoteX": 105,
+        "Vote2": 405
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/hapoel-jerusalem-maccabi-tel-aviv/566-614-42#id=3828059?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3832859,
+      "Comp": 11,
+      "Season": 95,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "31-01-2024 20:00",
+      "ETime": "31-01-2024 19:50",
+      "Comps": [
+        {
+          "ID": 132,
+          "Name": "FC Barcelona",
+          "SName": "Barcelona",
+          "SymbolicName": "BAR",
+          "TitleName": "Barcelona",
+          "NameForURL": "fc-barcelona",
+          "CID": 2,
+          "SID": 1,
+          "Color": "#A50044",
+          "Color2": "#9D1009",
+          "AwayColor": "#DCF46A",
+          "AwayColor2": "#DCF46A",
+          "TextColor": "#FFFFFF",
+          "MainComp": 11,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            0,
+            4,
+            1,
+            1,
+            0
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 64083,
+          "ImgVer": 3,
+          "ChatUrl": "C-132_365scores_prod"
+        },
+        {
+          "ID": 143,
+          "Name": "Osasuna",
+          "SymbolicName": "OSA",
+          "TitleName": "Osasuna",
+          "NameForURL": "osasuna",
+          "CID": 2,
+          "SID": 1,
+          "Color": "#D20000",
+          "Color2": "#FFFF2D",
+          "AwayColor": "#FFFF2D",
+          "AwayColor2": "#FFFF2D",
+          "TextColor": "#FFFFFF",
+          "MainComp": 11,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            2,
+            1,
+            0,
+            0,
+            3
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 2770,
+          "ImgVer": 6,
+          "ChatUrl": "C-143_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 20,
+      "TVNetworks": [
+        {
+          "NetworkID": 63,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "HasLineups": true,
+      "HasDoubtful": true,
+      "HasFieldPositions": true,
+      "HasTopPerformers": true,
+      "HasMissingPlayers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 12952,
+        "VoteX": 1088,
+        "Vote2": 3981
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "ChatUrl": "G-3832859_365scores_prod",
+      "WebUrl": "https://365scores.com/football/spain/laliga/match/fc-barcelona-osasuna/132-143-11#id=3832859?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3828060,
+      "Comp": 42,
+      "Season": 83,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "31-01-2024 20:30",
+      "ETime": "31-01-2024 20:20",
+      "Comps": [
+        {
+          "ID": 579,
+          "Name": "Hapoel Beer Sheva",
+          "SymbolicName": "HBS",
+          "TitleName": "H. Beer Sheva",
+          "NameForURL": "hapoel-beer-sheva",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#D90000",
+          "Color2": "#FF0000",
+          "AwayColor": "#FFFFFF",
+          "AwayColor2": "#FFFFFF",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 1120,
+          "ImgVer": 3,
+          "ChatUrl": "C-579_365scores_prod"
+        },
+        {
+          "ID": 562,
+          "Name": "Maccabi Haifa",
+          "SymbolicName": "MHA",
+          "TitleName": "M. Haifa",
+          "NameForURL": "maccabi-haifa",
+          "CID": 6,
+          "SID": 1,
+          "Color": "#207535",
+          "TextColor": "#FFFFFF",
+          "MainComp": 42,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            3,
+            4,
+            1,
+            1,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 1955,
+          "ImgVer": 9,
+          "ChatUrl": "C-562_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 19,
+      "TVNetworks": [
+        {
+          "NetworkID": 3,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "HasTopPerformers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 2018,
+        "VoteX": 221,
+        "Vote2": 2824
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Round",
+      "WebUrl": "https://365scores.com/football/israel/premier-league/match/hapoel-beer-sheva-maccabi-haifa/562-579-42#id=3828060?utm_source=Calendar"
+    },
+    {
+      "SID": 1,
+      "ID": 3825675,
+      "Comp": 7,
+      "Season": 129,
+      "Stage": 1,
+      "Active": false,
+      "STID": 2,
+      "StatusSequence": -1,
+      "GT": -1.0,
+      "PreciseGT": -1.0,
+      "AutoProgressGT": false,
+      "Completion": 0.0,
+      "RegularTimeCompletion": 100.0,
+      "GTD": "",
+      "STime": "31-01-2024 22:15",
+      "ETime": "31-01-2024 22:05",
+      "Comps": [
+        {
+          "ID": 108,
+          "Name": "Liverpool",
+          "SymbolicName": "LIV",
+          "TitleName": "Liverpool",
+          "NameForURL": "liverpool",
+          "CID": 1,
+          "SID": 1,
+          "Color": "#B70000",
+          "Color2": "#FFFFFF",
+          "AwayColor": "#FFFFFF",
+          "AwayColor2": "#2F1753",
+          "TextColor": "#FFFFFF",
+          "MainComp": 7,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            1,
+            2,
+            1,
+            1,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 43647,
+          "ImgVer": 8,
+          "ChatUrl": "C-108_365scores_prod"
+        },
+        {
+          "ID": 106,
+          "Name": "Chelsea",
+          "SymbolicName": "CHE",
+          "TitleName": "Chelsea",
+          "NameForURL": "chelsea",
+          "CID": 1,
+          "SID": 1,
+          "Color": "#00458A",
+          "Color2": "#FBFB00",
+          "AwayColor": "#FBFB00",
+          "AwayColor2": "#FBFB00",
+          "TextColor": "#FFFFFF",
+          "MainComp": 7,
+          "CompetitionHasTexture": true,
+          "Trend": [
+            2,
+            1,
+            1,
+            0,
+            1
+          ],
+          "HasSquad": true,
+          "Type": 1,
+          "PopularityRank": 40141,
+          "ImgVer": 1,
+          "ChatUrl": "C-106_365scores_prod"
+        }
+      ],
+      "Scrs": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "Round": 22,
+      "TVNetworks": [
+        {
+          "NetworkID": 4,
+          "NetworkType": 1
+        }
+      ],
+      "OnTV": true,
+      "HasTVLinks": false,
+      "HasBets": true,
+      "Winner": -1,
+      "BestOdds": {
+        "Lines": [
+          {
+            "BMGID": 6519425,
+            "ID": 689105836,
+            "EntID": 3825675,
+            "EntT": 3,
+            "Type": 1,
+            "BMID": 1,
+            "Link": "https://www.winner.co.il/aff/e/$BookmakerGameID?Referrer=365scores&ReferUrl=game&campaign=General?Referrer=365scores&ReferUrl=BestOdds&campaign=IOS",
+            "TrackingURL": "http://www.365365.com",
+            "Sponsored": true,
+            "Options": [
+              {
+                "Num": 1,
+                "Rate": 1.5,
+                "Fractional": "1/2",
+                "American": "-200"
+              },
+              {
+                "Num": 2,
+                "Rate": 3.8,
+                "Fractional": "14/5",
+                "American": "+280",
+                "OldRate": 3.85
+              },
+              {
+                "Num": 3,
+                "Rate": 4.3,
+                "Fractional": "7/2",
+                "American": "+330"
+              }
+            ]
+          }
+        ],
+        "Bookmakers": [
+          {
+            "ID": 1,
+            "Name": "ווינר",
+            "URL": "https://www.winner.co.il/?Referrer=365scores",
+            "ShowLinksInBrowser": true,
+            "UseDeepestLink": true,
+            "Sponsored": true,
+            "ActionButton": {
+              "Text": "Bet Now",
+              "URL": "https://www.winner.co.il/?Referrer=Scores365"
+            },
+            "Disclaimer": {
+              "Text": "Winners know when to stop",
+              "URL": "www.gamblingtherapy.org"
+            },
+            "NameForURL": "ווינר",
+            "ImgVer": 1,
+            "Color": "#ED1D24",
+            "SecondaryColor": "#FFD707",
+            "PromotionTextColor": "#000000",
+            "CTATextColor": "#FFFFFF",
+            "CTABGColor": "#61B000",
+            "LiveColor": "#FFFFFF",
+            "GeneralTextColor": "#000000",
+            "PromotionText": "Register and get 100% back up to 50 NIS",
+            "CTAText": "Play Now"
+          }
+        ]
+      },
+      "TopBookmaker": 1,
+      "HasTrends": true,
+      "TopTrendsAvailable": true,
+      "PromotedPredictions": {
+        "Predictions": [
+          {
+            "ID": -1893305382,
+            "LineTypeID": 1,
+            "VotingKey": "http://www.365scores.com/Objects/Game/WWW/?GameID=3825675",
+            "Votes": [
+              12400,
+              1390,
+              3985
+            ],
+            "RelatedLine": {
+              "BMGID": 6519425,
+              "ID": 689105836,
+              "EntID": 3825675,
+              "EntT": 3,
+              "Type": 1,
+              "BMID": 1,
+              "Link": "https://www.winner.co.il/aff/e/$BookmakerGameID?Referrer=365scores&ReferUrl=game&campaign=General?Referrer=365scores&ReferUrl=PredictionsMyScores&campaign=IOS",
+              "TrackingURL": "http://www.365365.com",
+              "Sponsored": true,
+              "Options": [
+                {
+                  "Num": 1,
+                  "Rate": 1.5,
+                  "Fractional": "1/2",
+                  "American": "-200"
+                },
+                {
+                  "Num": 2,
+                  "Rate": 3.8,
+                  "Fractional": "14/5",
+                  "American": "+280",
+                  "OldRate": 3.85
+                },
+                {
+                  "Num": 3,
+                  "Rate": 4.3,
+                  "Fractional": "7/2",
+                  "American": "+330"
+                }
+              ]
+            },
+            "ShowVotesCount": true
+          }
+        ],
+        "Bookmakers": [
+          {
+            "ID": 1,
+            "Name": "ווינר",
+            "URL": "https://www.winner.co.il/?Referrer=365scores",
+            "ShowLinksInBrowser": true,
+            "UseDeepestLink": true,
+            "Sponsored": true,
+            "ActionButton": {
+              "Text": "Bet Now",
+              "URL": "https://www.winner.co.il/?Referrer=Scores365"
+            },
+            "Disclaimer": {
+              "Text": "Winners know when to stop",
+              "URL": "www.gamblingtherapy.org"
+            },
+            "NameForURL": "ווינר",
+            "ImgVer": 1,
+            "Color": "#ED1D24",
+            "SecondaryColor": "#FFD707",
+            "PromotionTextColor": "#000000",
+            "CTATextColor": "#FFFFFF",
+            "CTABGColor": "#61B000",
+            "LiveColor": "#FFFFFF",
+            "GeneralTextColor": "#000000",
+            "PromotionText": "Register and get 100% back up to 50 NIS",
+            "CTAText": "Play Now"
+          }
+        ],
+        "RequestedUpdateID": -1,
+        "LastUpdateID": 4719004638
+      },
+      "Venue": {
+        "ID": 1023,
+        "Name": "Anfield",
+        "SName": "anfield"
+      },
+      "HasDoubtful": true,
+      "HasTopPerformers": true,
+      "HasMissingPlayers": true,
+      "HasPlayByPlay": true,
+      "ShowPlayByPlay": false,
+      "SocialStats": {
+        "Comments": 0
+      },
+      "WhoWillWinReults": {
+        "Vote1": 12400,
+        "VoteX": 1390,
+        "Vote2": 3985
+      },
+      "ShowTracker": false,
+      "HasTable": true,
+      "HomeAwayTeamOrder": 1,
+      "RoundName": "Matchweek",
+      "EditorsChoice": true,
+      "ChatUrl": "G-3825675_365scores_prod",
+      "EditorsPromotedOdds": true,
+      "EditorsShowSportType": true,
+      "WebUrl": "https://365scores.com/football/england/premier-league/match/chelsea-liverpool/106-108-7#id=3825675?utm_source=Calendar"
+    }
+  ],
+  "Countries": [
+    {
+      "Name": "Israel",
+      "NameForURL": "israel",
+      "ID": 6,
+      "DefaultLang": 2,
+      "GamesCount": 7,
+      "LiveCount": 0,
+      "DefaultLanguage": 2,
+      "Color": "#0000FF",
+      "Color2": "#FFFFFF",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Albania",
+      "NameForURL": "albania",
+      "ID": 76,
+      "DefaultLang": 1,
+      "GamesCount": 2,
+      "LiveCount": 2,
+      "DefaultLanguage": 1,
+      "Color": "#FF0000",
+      "Color2": "#323232",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Brazil",
+      "NameForURL": "brazil",
+      "ID": 21,
+      "DefaultLang": 31,
+      "GamesCount": 1,
+      "LiveCount": 0,
+      "DefaultLanguage": 31,
+      "Color": "#FFE400",
+      "Color2": "#0039F2",
+      "ImgVer": 1
+    },
+    {
+      "Name": "England",
+      "NameForURL": "england",
+      "ID": 1,
+      "DefaultLang": 10,
+      "GamesCount": 1,
+      "LiveCount": 0,
+      "DefaultLanguage": 10,
+      "Color": "#D9D9D9",
+      "Color2": "#FF0000",
+      "ImgVer": 1,
+      "FatherCountryId": 166
+    },
+    {
+      "Name": "International",
+      "NameForURL": "international",
+      "ID": 54,
+      "DefaultLang": -1,
+      "NotReal": true,
+      "GamesCount": 1,
+      "LiveCount": 0,
+      "DefaultLanguage": -1,
+      "IsInternational": true,
+      "ImgVer": 1
+    },
+    {
+      "Name": "Spain",
+      "NameForURL": "spain",
+      "ID": 2,
+      "DefaultLang": 14,
+      "GamesCount": 2,
+      "LiveCount": 0,
+      "DefaultLanguage": 14,
+      "Color": "#FF0000",
+      "Color2": "#FFDF00",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Denmark",
+      "NameForURL": "denmark",
+      "ID": 23,
+      "DefaultLang": 42,
+      "DefaultLanguage": 42,
+      "Color": "#FF0000",
+      "Color2": "#FFFFFF",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Portugal",
+      "NameForURL": "portugal",
+      "ID": 11,
+      "DefaultLang": 30,
+      "DefaultLanguage": 30,
+      "Color": "#F7F7F7",
+      "Color2": "#FFFFFF",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Poland",
+      "NameForURL": "poland",
+      "ID": 37,
+      "DefaultLang": 35,
+      "DefaultLanguage": 35,
+      "Color": "#FCFCFC",
+      "Color2": "#F9001C",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Morocco",
+      "NameForURL": "morocco",
+      "ID": 127,
+      "DefaultLang": 27,
+      "DefaultLanguage": 27,
+      "Color": "#D50414",
+      "Color2": "#FFFFFF",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Algeria",
+      "NameForURL": "algeria",
+      "ID": 139,
+      "DefaultLang": 27,
+      "DefaultLanguage": 27,
+      "Color": "#D9D9D9",
+      "Color2": "#23BC55",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Colombia",
+      "NameForURL": "colombia",
+      "ID": 109,
+      "DefaultLang": 29,
+      "DefaultLanguage": 29,
+      "Color": "#F2F200",
+      "Color2": "#000060",
+      "ImgVer": 1
+    },
+    {
+      "Name": "France",
+      "NameForURL": "france",
+      "ID": 5,
+      "DefaultLang": 15,
+      "DefaultLanguage": 15,
+      "Color": "#112855",
+      "Color2": "#FFFFFF",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Saudi Arabia",
+      "NameForURL": "saudi-arabia",
+      "ID": 122,
+      "DefaultLang": 27,
+      "DefaultLanguage": 27,
+      "Color": "#D9D9D9",
+      "Color2": "#168D40",
+      "ImgVer": 1
+    },
+    {
+      "Name": "Florida (USA)",
+      "NameForURL": "florida-(usa)",
+      "ID": 327,
+      "DefaultLang": -1,
+      "DefaultLanguage": -1,
+      "ImgVer": 2,
+      "FatherCountryId": 18
+    }
+  ],
+  "RequestedUpdateID": -1,
+  "Competitions": [
+    {
+      "Name": "Premier League",
+      "NameForURL": "premier-league",
+      "ID": 42,
+      "CID": 6,
+      "SID": 1,
+      "HasTbl": true,
+      "HasLiveTable": false,
+      "OrderLevel": 1,
+      "Seasons": [
+        {
+          "Num": 83,
+          "Name": "2023/2024",
+          "UseName": false,
+          "HasTbl": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Regular Season",
+              "UseName": false,
+              "HasTbl": true,
+              "IsFinal": false,
+              "GamesCount": 7,
+              "LiveCount": 0,
+              "StageType": 1,
+              "FilterDivision": false
+            }
+          ],
+          "Start": "26-08-2023",
+          "End": "21-05-2024"
+        }
+      ],
+      "CurrSeason": 83,
+      "CurrSeasonName": "2023/2024",
+      "CurrSeasonStart": "26-08-2023",
+      "CurrSeasonEnd": "21-05-2024",
+      "CurrStage": 1,
+      "HasSquads": true,
+      "ShowTopAthletes": true,
+      "AutoProgressAddedTime": true,
+      "GamesCount": 7,
+      "PlayingCount": 7,
+      "LiveCount": 0,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "Color": "#0C224E",
+      "HasLogo": true,
+      "HasTexture": true,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 9,
+      "CompetitorsType": 1,
+      "PopularityRank": 2089972
+    },
+    {
+      "Name": "Superliga",
+      "NameForURL": "superliga",
+      "ID": 5794,
+      "CID": 76,
+      "SID": 1,
+      "HasTbl": true,
+      "HasLiveTable": true,
+      "OrderLevel": 2,
+      "Seasons": [
+        {
+          "Num": 85,
+          "Name": "2023/2024",
+          "UseName": false,
+          "HasTbl": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Regular Season",
+              "UseName": false,
+              "HasTbl": true,
+              "IsFinal": false,
+              "GamesCount": 1,
+              "LiveCount": 1,
+              "StageType": 1,
+              "FilterDivision": true
+            }
+          ],
+          "Start": "26-08-2023",
+          "End": "30-06-2024"
+        }
+      ],
+      "CurrSeason": 85,
+      "CurrSeasonName": "2023/2024",
+      "CurrSeasonStart": "26-08-2023",
+      "CurrSeasonEnd": "30-06-2024",
+      "CurrStage": 1,
+      "GamesCount": 1,
+      "PlayingCount": 1,
+      "LiveCount": 1,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "Color": "#FF0000",
+      "Color2": "#323232",
+      "HasLogo": true,
+      "HasTexture": true,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 1,
+      "CompetitorsType": 1,
+      "PopularityRank": 279426
+    },
+    {
+      "Name": "League 1",
+      "NameForURL": "league-1",
+      "ID": 7540,
+      "CID": 76,
+      "SID": 1,
+      "HasTbl": true,
+      "HasLiveTable": true,
+      "OrderLevel": 10,
+      "Seasons": [
+        {
+          "Num": 12,
+          "Name": "2023/2024",
+          "UseName": false,
+          "HasTbl": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Regular Season",
+              "UseName": false,
+              "HasTbl": true,
+              "IsFinal": false,
+              "GamesCount": 1,
+              "LiveCount": 1,
+              "StageType": 1,
+              "FilterDivision": true
+            }
+          ],
+          "Start": "11-08-2023",
+          "End": "30-06-2024"
+        }
+      ],
+      "CurrSeason": 12,
+      "CurrSeasonName": "2023/2024",
+      "CurrSeasonStart": "11-08-2023",
+      "CurrSeasonEnd": "30-06-2024",
+      "CurrStage": 1,
+      "GamesCount": 1,
+      "PlayingCount": 1,
+      "LiveCount": 1,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "Color": "#FF0000",
+      "Color2": "#323232",
+      "HasLogo": false,
+      "HasTexture": false,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 1,
+      "CompetitorsType": 1,
+      "PopularityRank": 34518
+    },
+    {
+      "Name": "Premier League",
+      "SName": "EPL",
+      "NameForURL": "premier-league",
+      "ID": 7,
+      "CID": 1,
+      "SID": 1,
+      "HasTbl": true,
+      "HasLiveTable": false,
+      "OrderLevel": 1,
+      "Seasons": [
+        {
+          "Num": 129,
+          "Name": "2023/2024",
+          "UseName": false,
+          "HasTbl": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Regular Season",
+              "UseName": false,
+              "HasTbl": true,
+              "IsFinal": false,
+              "GamesCount": 1,
+              "LiveCount": 0,
+              "StageType": 1,
+              "FilterDivision": true
+            }
+          ],
+          "Start": "11-08-2023",
+          "End": "19-05-2024"
+        }
+      ],
+      "CurrSeason": 129,
+      "CurrSeasonName": "2023/2024",
+      "CurrSeasonStart": "11-08-2023",
+      "CurrSeasonEnd": "19-05-2024",
+      "CurrStage": 1,
+      "HasSquads": true,
+      "ShowTopAthletes": true,
+      "AutoProgressAddedTime": true,
+      "SupportMissingPlayers": true,
+      "GamesCount": 1,
+      "PlayingCount": 1,
+      "LiveCount": 0,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "Color": "#3D1053",
+      "Color2": "#A3A3A3",
+      "HasLogo": true,
+      "HasTexture": true,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 11,
+      "CompetitorsType": 1,
+      "PopularityRank": 76354574
+    },
+    {
+      "Name": "Riyadh Season Cup",
+      "NameForURL": "riyadh-season-cup",
+      "ID": 8056,
+      "CID": 54,
+      "SID": 1,
+      "HasTbl": true,
+      "HasLiveTable": false,
+      "OrderLevel": 10,
+      "Seasons": [
+        {
+          "Num": 1,
+          "Name": "2024",
+          "UseName": false,
+          "HasTbl": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Group Stage",
+              "UseName": false,
+              "HasTbl": true,
+              "IsFinal": false,
+              "GamesCount": 1,
+              "LiveCount": 0,
+              "StageType": 2,
+              "FilterDivision": false
+            }
+          ],
+          "Start": "28-01-2024",
+          "End": "10-02-2024"
+        }
+      ],
+      "CurrSeason": 1,
+      "CurrSeasonName": "2024",
+      "CurrSeasonStart": "28-01-2024",
+      "CurrSeasonEnd": "10-02-2024",
+      "CurrStage": 1,
+      "HasSquads": true,
+      "ShowTopAthletes": true,
+      "GamesCount": 1,
+      "PlayingCount": 1,
+      "LiveCount": 0,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "HasLogo": false,
+      "HasTexture": false,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 2,
+      "CompetitorsType": 1,
+      "PopularityRank": 0
+    },
+    {
+      "Name": "LaLiga",
+      "NameForURL": "laliga",
+      "ID": 11,
+      "CID": 2,
+      "SID": 1,
+      "HasTbl": true,
+      "HasLiveTable": false,
+      "OrderLevel": 1,
+      "Seasons": [
+        {
+          "Num": 95,
+          "Name": "2023/2024",
+          "UseName": false,
+          "HasTbl": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Regular Season",
+              "UseName": false,
+              "HasTbl": true,
+              "IsFinal": false,
+              "GamesCount": 2,
+              "LiveCount": 0,
+              "StageType": 1,
+              "FilterDivision": false
+            }
+          ],
+          "Start": "11-08-2023",
+          "End": "26-05-2024"
+        }
+      ],
+      "CurrSeason": 95,
+      "CurrSeasonName": "2023/2024",
+      "CurrSeasonStart": "11-08-2023",
+      "CurrSeasonEnd": "26-05-2024",
+      "CurrStage": 1,
+      "HasSquads": true,
+      "ShowTopAthletes": true,
+      "AutoProgressAddedTime": true,
+      "SupportMissingPlayers": true,
+      "GamesCount": 2,
+      "PlayingCount": 2,
+      "LiveCount": 0,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "Color": "#121417",
+      "HasLogo": true,
+      "HasTexture": true,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 5,
+      "CompetitorsType": 1,
+      "PopularityRank": 81447336
+    },
+    {
+      "Name": "Copa Super 8",
+      "NameForURL": "copa-super-8",
+      "ID": 7295,
+      "CID": 21,
+      "SID": 2,
+      "HasTbl": false,
+      "OrderLevel": 10,
+      "Seasons": [
+        {
+          "Num": 5,
+          "Name": "2024",
+          "UseName": false,
+          "HasTbl": false,
+          "HasBrackets": true,
+          "Stages": [
+            {
+              "Num": 1,
+              "Name": "Quarter Finals",
+              "UseName": true,
+              "HasTbl": false,
+              "Groups": [
+                {
+                  "Num": 1,
+                  "Name": "Group 1",
+                  "UseName": false,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "Name": "Paulistano",
+                      "UseName": true,
+                      "OriginGroup": 1,
+                      "OriginPosition": 1,
+                      "CompetitorID": 16031,
+                      "SymbolicName": "PAU"
+                    },
+                    {
+                      "Num": 2,
+                      "Name": "Vasco Da Gama",
+                      "UseName": true,
+                      "OriginGroup": 2,
+                      "OriginPosition": 1,
+                      "CompetitorID": 44760
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-28T14:00:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "28-01-2024 16:00",
+                      "GameID": 4038208,
+                      "Game": {
+                        "SID": 2,
+                        "ID": 4038208,
+                        "Comp": 7295,
+                        "STime": "28-01-2024 16:00",
+                        "Season": 5,
+                        "Stage": 1,
+                        "Group": 1,
+                        "Comps": [
+                          {
+                            "ID": 44760,
+                            "Name": "Vasco Da Gama",
+                            "TitleName": "Vasco",
+                            "NameForURL": "vasco-da-gama",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#21282D",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 60,
+                            "ImgVer": 3,
+                            "ChatUrl": "C-44760_365scores_prod"
+                          },
+                          {
+                            "ID": 16031,
+                            "Name": "Paulistano",
+                            "SymbolicName": "PAU",
+                            "TitleName": "Paulistano",
+                            "NameForURL": "paulistano",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#BB0F16",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 5787,
+                            "CompetitionHasTexture": true,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 54,
+                            "ImgVer": 1,
+                            "ChatUrl": "C-16031_365scores_prod"
+                          }
+                        ],
+                        "STID": 13,
+                        "Scrs": [
+                          62.0,
+                          76.0
+                        ],
+                        "Winner": 2,
+                        "ToQualify": 2,
+                        "HomeAwayTeamOrder": 1
+                      },
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 1,
+                      "GroupNum": 1,
+                      "Competitors": [
+                        {
+                          "ID": 16031,
+                          "Name": "Paulistano",
+                          "SymbolicName": "PAU",
+                          "TitleName": "Paulistano",
+                          "NameForURL": "paulistano",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#BB0F16",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 5787,
+                          "CompetitionHasTexture": true,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 54,
+                          "ImgVer": 1,
+                          "ChatUrl": "C-16031_365scores_prod"
+                        },
+                        {
+                          "ID": 44760,
+                          "Name": "Vasco Da Gama",
+                          "TitleName": "Vasco",
+                          "NameForURL": "vasco-da-gama",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#21282D",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 60,
+                          "ImgVer": 3,
+                          "ChatUrl": "C-44760_365scores_prod"
+                        }
+                      ]
+                    }
+                  ],
+                  "DestStage": 2,
+                  "DestGroup": 1,
+                  "GroupBy": false,
+                  "GamesCount": 0,
+                  "LiveCount": 0,
+                  "Score": [
+                    76.0,
+                    62.0
+                  ],
+                  "ToQualify": 1,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                },
+                {
+                  "Num": 2,
+                  "Name": "Group 2",
+                  "UseName": false,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "Name": "Bauru",
+                      "UseName": true,
+                      "OriginGroup": 3,
+                      "OriginPosition": 1,
+                      "CompetitorID": 15643,
+                      "SymbolicName": "BAU"
+                    },
+                    {
+                      "Num": 2,
+                      "Name": "Flamengo",
+                      "UseName": true,
+                      "OriginGroup": 4,
+                      "OriginPosition": 1,
+                      "CompetitorID": 15634,
+                      "SymbolicName": "FLA"
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-28T19:00:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "28-01-2024 21:00",
+                      "GameID": 4037022,
+                      "Venue": {
+                        "ID": 0,
+                        "Name": "Ginásio do Maracanãzinho",
+                        "SName": "ginasio-do-maracanazinho"
+                      },
+                      "Game": {
+                        "SID": 2,
+                        "ID": 4037022,
+                        "Comp": 7295,
+                        "STime": "28-01-2024 21:00",
+                        "Season": 5,
+                        "Stage": 1,
+                        "Group": 2,
+                        "Comps": [
+                          {
+                            "ID": 15634,
+                            "Name": "Flamengo",
+                            "SymbolicName": "FLA",
+                            "TitleName": "Flamengo",
+                            "NameForURL": "flamengo",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#F20A0A",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 429,
+                            "ImgVer": 2,
+                            "ChatUrl": "C-15634_365scores_prod"
+                          },
+                          {
+                            "ID": 15643,
+                            "Name": "Bauru",
+                            "SymbolicName": "BAU",
+                            "TitleName": "Bauru",
+                            "NameForURL": "bauru",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#1D3E36",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 107,
+                            "ImgVer": 4,
+                            "ChatUrl": "C-15643_365scores_prod"
+                          }
+                        ],
+                        "STID": 13,
+                        "Scrs": [
+                          86.0,
+                          67.0
+                        ],
+                        "Winner": 1,
+                        "ToQualify": 1,
+                        "HomeAwayTeamOrder": 1
+                      },
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 1,
+                      "GroupNum": 2,
+                      "Competitors": [
+                        {
+                          "ID": 15643,
+                          "Name": "Bauru",
+                          "SymbolicName": "BAU",
+                          "TitleName": "Bauru",
+                          "NameForURL": "bauru",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#1D3E36",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 107,
+                          "ImgVer": 4,
+                          "ChatUrl": "C-15643_365scores_prod"
+                        },
+                        {
+                          "ID": 15634,
+                          "Name": "Flamengo",
+                          "SymbolicName": "FLA",
+                          "TitleName": "Flamengo",
+                          "NameForURL": "flamengo",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#F20A0A",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 429,
+                          "ImgVer": 2,
+                          "ChatUrl": "C-15634_365scores_prod"
+                        }
+                      ]
+                    }
+                  ],
+                  "DestStage": 2,
+                  "DestGroup": 1,
+                  "GroupBy": false,
+                  "GamesCount": 0,
+                  "LiveCount": 0,
+                  "Score": [
+                    67.0,
+                    86.0
+                  ],
+                  "ToQualify": 2,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                },
+                {
+                  "Num": 3,
+                  "Name": "Group 3",
+                  "UseName": false,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "Name": "Unifacisa",
+                      "UseName": true,
+                      "OriginGroup": 5,
+                      "OriginPosition": 1,
+                      "CompetitorID": 57223,
+                      "SymbolicName": "UNI"
+                    },
+                    {
+                      "Num": 2,
+                      "Name": "Franca",
+                      "UseName": true,
+                      "OriginGroup": 6,
+                      "OriginPosition": 1,
+                      "CompetitorID": 15650,
+                      "SymbolicName": "FRA"
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-27T20:10:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "27-01-2024 22:10",
+                      "GameID": 4037021,
+                      "Game": {
+                        "SID": 2,
+                        "ID": 4037021,
+                        "Comp": 7295,
+                        "STime": "27-01-2024 22:10",
+                        "Season": 5,
+                        "Stage": 1,
+                        "Group": 3,
+                        "Comps": [
+                          {
+                            "ID": 15650,
+                            "Name": "Franca",
+                            "SymbolicName": "FRA",
+                            "NameForURL": "franca",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#000000",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 103,
+                            "ImgVer": 3,
+                            "ChatUrl": "C-15650_365scores_prod"
+                          },
+                          {
+                            "ID": 57223,
+                            "Name": "Unifacisa",
+                            "SymbolicName": "UNI",
+                            "TitleName": "Unifacisa",
+                            "NameForURL": "unifacisa",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#B0D1E9",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 29,
+                            "ImgVer": 1,
+                            "ChatUrl": "C-57223_365scores_prod"
+                          }
+                        ],
+                        "STID": 13,
+                        "Scrs": [
+                          92.0,
+                          94.0
+                        ],
+                        "Winner": 2,
+                        "ToQualify": 2,
+                        "HomeAwayTeamOrder": 1
+                      },
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 1,
+                      "GroupNum": 3,
+                      "Competitors": [
+                        {
+                          "ID": 57223,
+                          "Name": "Unifacisa",
+                          "SymbolicName": "UNI",
+                          "TitleName": "Unifacisa",
+                          "NameForURL": "unifacisa",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#B0D1E9",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 29,
+                          "ImgVer": 1,
+                          "ChatUrl": "C-57223_365scores_prod"
+                        },
+                        {
+                          "ID": 15650,
+                          "Name": "Franca",
+                          "SymbolicName": "FRA",
+                          "NameForURL": "franca",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#000000",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 103,
+                          "ImgVer": 3,
+                          "ChatUrl": "C-15650_365scores_prod"
+                        }
+                      ]
+                    }
+                  ],
+                  "DestStage": 2,
+                  "DestGroup": 2,
+                  "GroupBy": false,
+                  "GamesCount": 0,
+                  "LiveCount": 0,
+                  "Score": [
+                    94.0,
+                    92.0
+                  ],
+                  "ToQualify": 1,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                },
+                {
+                  "Num": 4,
+                  "Name": "Group 4",
+                  "UseName": false,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "Name": "Fortaleza B.C.",
+                      "UseName": true,
+                      "OriginGroup": 7,
+                      "OriginPosition": 1,
+                      "CompetitorID": 15639
+                    },
+                    {
+                      "Num": 2,
+                      "Name": "Minas",
+                      "UseName": true,
+                      "OriginGroup": 8,
+                      "OriginPosition": 1,
+                      "CompetitorID": 16032,
+                      "SymbolicName": "MIN"
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-27T22:00:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "28-01-2024 00:00",
+                      "GameID": 4037020,
+                      "Game": {
+                        "SID": 2,
+                        "ID": 4037020,
+                        "Comp": 7295,
+                        "STime": "28-01-2024 00:00",
+                        "Season": 5,
+                        "Stage": 1,
+                        "Group": 4,
+                        "Comps": [
+                          {
+                            "ID": 16032,
+                            "Name": "Minas",
+                            "SymbolicName": "MIN",
+                            "NameForURL": "minas",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#0D3078",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 5787,
+                            "CompetitionHasTexture": true,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 50,
+                            "ImgVer": 3,
+                            "ChatUrl": "C-16032_365scores_prod"
+                          },
+                          {
+                            "ID": 15639,
+                            "Name": "Fortaleza B.C.",
+                            "TitleName": "Fortaleza",
+                            "NameForURL": "fortaleza-b.c.",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#8D030B",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 112,
+                            "ImgVer": 13,
+                            "ChatUrl": "C-15639_365scores_prod"
+                          }
+                        ],
+                        "STID": 13,
+                        "Scrs": [
+                          73.0,
+                          69.0
+                        ],
+                        "Winner": 1,
+                        "ToQualify": 1,
+                        "HomeAwayTeamOrder": 1
+                      },
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 1,
+                      "GroupNum": 4,
+                      "Competitors": [
+                        {
+                          "ID": 15639,
+                          "Name": "Fortaleza B.C.",
+                          "TitleName": "Fortaleza",
+                          "NameForURL": "fortaleza-b.c.",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#8D030B",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 112,
+                          "ImgVer": 13,
+                          "ChatUrl": "C-15639_365scores_prod"
+                        },
+                        {
+                          "ID": 16032,
+                          "Name": "Minas",
+                          "SymbolicName": "MIN",
+                          "NameForURL": "minas",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#0D3078",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 5787,
+                          "CompetitionHasTexture": true,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 50,
+                          "ImgVer": 3,
+                          "ChatUrl": "C-16032_365scores_prod"
+                        }
+                      ]
+                    }
+                  ],
+                  "DestStage": 2,
+                  "DestGroup": 2,
+                  "GroupBy": false,
+                  "GamesCount": 0,
+                  "LiveCount": 0,
+                  "Score": [
+                    69.0,
+                    73.0
+                  ],
+                  "ToQualify": 2,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                }
+              ],
+              "IsFinal": false,
+              "ConnectedToNextStage": true,
+              "StageType": 3,
+              "FilterDivision": false
+            },
+            {
+              "Num": 2,
+              "Name": "Semi Finals",
+              "UseName": true,
+              "HasTbl": false,
+              "Groups": [
+                {
+                  "Num": 1,
+                  "Name": "Group 1",
+                  "UseName": false,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "Name": "Paulistano",
+                      "UseName": true,
+                      "OriginStage": 1,
+                      "OriginGroup": 1,
+                      "OriginPosition": 1,
+                      "CompetitorID": 16031,
+                      "SymbolicName": "PAU"
+                    },
+                    {
+                      "Num": 2,
+                      "Name": "Flamengo",
+                      "UseName": true,
+                      "OriginStage": 1,
+                      "OriginGroup": 2,
+                      "OriginPosition": 1,
+                      "CompetitorID": 15634,
+                      "SymbolicName": "FLA"
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-31T22:00:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "01-02-2024 00:00",
+                      "GameID": 4047379,
+                      "Game": {
+                        "SID": 2,
+                        "ID": 4047379,
+                        "Comp": 7295,
+                        "STime": "01-02-2024 00:00",
+                        "Season": 5,
+                        "Stage": 2,
+                        "Group": 1,
+                        "Comps": [
+                          {
+                            "ID": 15634,
+                            "Name": "Flamengo",
+                            "SymbolicName": "FLA",
+                            "TitleName": "Flamengo",
+                            "NameForURL": "flamengo",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#F20A0A",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 429,
+                            "ImgVer": 2,
+                            "ChatUrl": "C-15634_365scores_prod"
+                          },
+                          {
+                            "ID": 16031,
+                            "Name": "Paulistano",
+                            "SymbolicName": "PAU",
+                            "TitleName": "Paulistano",
+                            "NameForURL": "paulistano",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#BB0F16",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 5787,
+                            "CompetitionHasTexture": true,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 54,
+                            "ImgVer": 1,
+                            "ChatUrl": "C-16031_365scores_prod"
+                          }
+                        ],
+                        "STID": 12,
+                        "Scrs": [
+                          -1.0,
+                          -1.0
+                        ],
+                        "Winner": -1,
+                        "HomeAwayTeamOrder": 1
+                      },
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 2,
+                      "GroupNum": 1,
+                      "Competitors": [
+                        {
+                          "ID": 16031,
+                          "Name": "Paulistano",
+                          "SymbolicName": "PAU",
+                          "TitleName": "Paulistano",
+                          "NameForURL": "paulistano",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#BB0F16",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 5787,
+                          "CompetitionHasTexture": true,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 54,
+                          "ImgVer": 1,
+                          "ChatUrl": "C-16031_365scores_prod"
+                        },
+                        {
+                          "ID": 15634,
+                          "Name": "Flamengo",
+                          "SymbolicName": "FLA",
+                          "TitleName": "Flamengo",
+                          "NameForURL": "flamengo",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#F20A0A",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 429,
+                          "ImgVer": 2,
+                          "ChatUrl": "C-15634_365scores_prod"
+                        }
+                      ]
+                    }
+                  ],
+                  "DestStage": 3,
+                  "DestGroup": 1,
+                  "GroupBy": false,
+                  "GamesCount": 1,
+                  "LiveCount": 0,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                },
+                {
+                  "Num": 2,
+                  "Name": "Group 2",
+                  "UseName": false,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "Name": "Unifacisa",
+                      "UseName": true,
+                      "OriginStage": 1,
+                      "OriginGroup": 3,
+                      "OriginPosition": 1,
+                      "CompetitorID": 57223,
+                      "SymbolicName": "UNI"
+                    },
+                    {
+                      "Num": 2,
+                      "Name": "Minas",
+                      "UseName": true,
+                      "OriginStage": 1,
+                      "OriginGroup": 4,
+                      "OriginPosition": 1,
+                      "CompetitorID": 16032,
+                      "SymbolicName": "MIN"
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-30T23:00:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "31-01-2024 01:00",
+                      "GameID": 4047014,
+                      "Game": {
+                        "SID": 2,
+                        "ID": 4047014,
+                        "Comp": 7295,
+                        "STime": "31-01-2024 01:00",
+                        "Season": 5,
+                        "Stage": 2,
+                        "Group": 2,
+                        "Comps": [
+                          {
+                            "ID": 16032,
+                            "Name": "Minas",
+                            "SymbolicName": "MIN",
+                            "NameForURL": "minas",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#0D3078",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 5787,
+                            "CompetitionHasTexture": true,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 50,
+                            "ImgVer": 3,
+                            "ChatUrl": "C-16032_365scores_prod"
+                          },
+                          {
+                            "ID": 57223,
+                            "Name": "Unifacisa",
+                            "SymbolicName": "UNI",
+                            "TitleName": "Unifacisa",
+                            "NameForURL": "unifacisa",
+                            "CID": 21,
+                            "SID": 2,
+                            "Color": "#B0D1E9",
+                            "TextColor": "#FFFFFF",
+                            "MainComp": 0,
+                            "CompetitionHasTexture": false,
+                            "HasSquad": true,
+                            "Type": 1,
+                            "PopularityRank": 29,
+                            "ImgVer": 1,
+                            "ChatUrl": "C-57223_365scores_prod"
+                          }
+                        ],
+                        "STID": 12,
+                        "Scrs": [
+                          -1.0,
+                          -1.0
+                        ],
+                        "Winner": -1,
+                        "HomeAwayTeamOrder": 1
+                      },
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 2,
+                      "GroupNum": 2,
+                      "Competitors": [
+                        {
+                          "ID": 57223,
+                          "Name": "Unifacisa",
+                          "SymbolicName": "UNI",
+                          "TitleName": "Unifacisa",
+                          "NameForURL": "unifacisa",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#B0D1E9",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 29,
+                          "ImgVer": 1,
+                          "ChatUrl": "C-57223_365scores_prod"
+                        },
+                        {
+                          "ID": 16032,
+                          "Name": "Minas",
+                          "SymbolicName": "MIN",
+                          "NameForURL": "minas",
+                          "CID": 21,
+                          "SID": 2,
+                          "Color": "#0D3078",
+                          "TextColor": "#FFFFFF",
+                          "MainComp": 5787,
+                          "CompetitionHasTexture": true,
+                          "HasSquad": true,
+                          "Type": 1,
+                          "PopularityRank": 50,
+                          "ImgVer": 3,
+                          "ChatUrl": "C-16032_365scores_prod"
+                        }
+                      ]
+                    }
+                  ],
+                  "DestStage": 3,
+                  "DestGroup": 1,
+                  "GroupBy": false,
+                  "GamesCount": 0,
+                  "LiveCount": 0,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                }
+              ],
+              "IsFinal": false,
+              "GamesCount": 1,
+              "LiveCount": 0,
+              "ConnectedToNextStage": true,
+              "StageType": 3,
+              "FilterDivision": false
+            },
+            {
+              "Num": 3,
+              "Name": "Final",
+              "UseName": false,
+              "HasTbl": false,
+              "Groups": [
+                {
+                  "Num": 1,
+                  "Name": "Final",
+                  "UseName": true,
+                  "HasTbl": false,
+                  "Participants": [
+                    {
+                      "Num": 1,
+                      "OriginStage": 2,
+                      "OriginGroup": 1,
+                      "OriginPosition": 1
+                    },
+                    {
+                      "Num": 2,
+                      "OriginStage": 2,
+                      "OriginGroup": 2,
+                      "OriginPosition": 1
+                    }
+                  ],
+                  "Games": [
+                    {
+                      "StartTimeUTC": "2024-01-08T00:00:00",
+                      "Num": 1,
+                      "UseName": false,
+                      "StartTime": "08-01-2024 02:00",
+                      "SportTypeID": 2,
+                      "CompetitionID": 7295,
+                      "SeasonNum": 5,
+                      "StageNum": 3,
+                      "GroupNum": 1,
+                      "Competitors": [
+                        {
+                          "ID": 0,
+                          "CID": 21,
+                          "SID": 2,
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "ImgVer": 0
+                        },
+                        {
+                          "ID": 0,
+                          "CID": 21,
+                          "SID": 2,
+                          "MainComp": 0,
+                          "CompetitionHasTexture": false,
+                          "ImgVer": 0
+                        }
+                      ]
+                    }
+                  ],
+                  "GroupBy": true,
+                  "GamesCount": 0,
+                  "LiveCount": 0,
+                  "IsFinal": false,
+                  "HomeAwayTeamOrder": 1
+                }
+              ],
+              "IsFinal": true,
+              "StageType": 3,
+              "FilterDivision": false
+            }
+          ],
+          "KnockoutTitle": "",
+          "Start": "26-01-2024",
+          "End": "31-03-2024"
+        }
+      ],
+      "CurrSeason": 5,
+      "CurrSeasonName": "2024",
+      "CurrSeasonStart": "26-01-2024",
+      "CurrSeasonEnd": "31-03-2024",
+      "CurrStage": 1,
+      "HasSquads": true,
+      "ShowTopAthletes": true,
+      "GamesCount": 1,
+      "PlayingCount": 1,
+      "LiveCount": 0,
+      "JustEndedCount": 0,
+      "HalfExpanded": false,
+      "Gender": 1,
+      "Color": "#FFE400",
+      "Color2": "#0039F2",
+      "HasLogo": false,
+      "HasTexture": false,
+      "TextColor": "#FFFFFF",
+      "ImgVer": 3,
+      "CompetitorsType": 1,
+      "PopularityRank": 147878
+    }
+  ],
+  "TVNetworks": [
+    {
+      "ID": 63,
+      "Name": "ONE Sports",
+      "CountryID": 6,
+      "Website": "http://www.one.co.il",
+      "NetworkType": 1,
+      "Bookmaker": 0,
+      "ImgVer": 1
+    },
+    {
+      "ID": 2,
+      "Name": "Sport 5 Live HD",
+      "CountryID": 6,
+      "NetworkType": 1,
+      "Bookmaker": 0,
+      "ImgVer": 1
+    },
+    {
+      "ID": 5273,
+      "Name": "Sport 3",
+      "CountryID": 6,
+      "Website": "https://sport1.maariv.co.il/",
+      "NetworkType": 1,
+      "Bookmaker": 0,
+      "ImgVer": 1
+    },
+    {
+      "ID": 5272,
+      "Name": "Sport 4",
+      "CountryID": 6,
+      "Website": "https://sport1.maariv.co.il/",
+      "NetworkType": 1,
+      "Bookmaker": 0,
+      "ImgVer": 1
+    },
+    {
+      "ID": 4,
+      "Name": "Sport 1",
+      "CountryID": 6,
+      "Website": "https://sport1.maariv.co.il/",
+      "NetworkType": 1,
+      "Bookmaker": 0,
+      "ImgVer": 1
+    },
+    {
+      "ID": 3,
+      "Name": "Sport 5",
+      "CountryID": 6,
+      "NetworkType": 1,
+      "Bookmaker": 0,
+      "ImgVer": 1
+    }
+  ],
+  "Bookmakers": [ ],
+  "CurrentDate": "29-01-2024",
+  "TTL": 10,
+  "ScrollIndex": 1,
+  "Summary": {
+    "RangeStart": "26-01-2024",
+    "RangeEnd": "02-02-2024",
+    "IncludesToday": true,
+    "Dates": [
+      {
+        "Date": "27-01-2024",
+        "Count": 1
+      },
+      {
+        "Date": "29-01-2024",
+        "Count": 3
+      },
+      {
+        "Date": "30-01-2024",
+        "Count": 3
+      },
+      {
+        "Date": "31-01-2024",
+        "Count": 6
+      },
+      {
+        "Date": "01-02-2024",
+        "Count": 1
+      }
+    ]
+  },
+  "Paging": {
+    "PreviousPage": "/Data/Games/?Lang=1&tz=15&uc=6&AppType=1&appVersion=5.9.11&Competitions=42&Competitors=132&Games=3884996,3885403&AfterGame=3833266&Direction=-1&withEditorsChoice=True",
+    "NextPage": "/Data/Games/?Lang=1&tz=15&uc=6&AppType=1&appVersion=5.9.11&Competitions=42&Competitors=132&Games=3884996,3885403&AfterGame=4047379&Direction=1&withEditorsChoice=True"
+  }
+}

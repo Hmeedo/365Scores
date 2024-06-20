@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="100" id="5E7-Ya-TiW" customClass="DateCell" customModule="Assignment365Scores" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="100"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="5E7-Ya-TiW" id="1sJ-Q7-1Gm">
+                <rect key="frame" x="0.0" y="0.0" width="393" height="100"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G0h-8y-GmE">
+                        <rect key="frame" x="20" y="13" width="353" height="74"/>
+                        <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="G0h-8y-GmE" firstAttribute="bottom" secondItem="1sJ-Q7-1Gm" secondAttribute="bottomMargin" id="11P-x4-xnk"/>
+                    <constraint firstItem="G0h-8y-GmE" firstAttribute="leading" secondItem="1sJ-Q7-1Gm" secondAttribute="leadingMargin" id="M3Q-E7-PgD"/>
+                    <constraint firstItem="G0h-8y-GmE" firstAttribute="top" secondItem="1sJ-Q7-1Gm" secondAttribute="topMargin" id="OfZ-hc-9Hu"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="G0h-8y-GmE" secondAttribute="trailing" id="afN-1C-cmc"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="label" destination="G0h-8y-GmE" id="Nf1-gW-elf"/>
+            </connections>
+            <point key="canvasLocation" x="446.56488549618319" y="-200.70422535211267"/>
+        </tableViewCell>
+    </objects>
+</document>
