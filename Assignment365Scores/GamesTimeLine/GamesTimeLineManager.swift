@@ -11,7 +11,6 @@ protocol TimeLineManagerProtocol {
     func fetchTimeLine() async throws -> [TimeLineObject]
 }
 
-
 class GamesTimeLineManager: TimeLineManagerProtocol {
     private let gamesService: GamesServiceProtocol
     
@@ -22,7 +21,7 @@ class GamesTimeLineManager: TimeLineManagerProtocol {
     func fetchTimeLine() async throws -> [TimeLineObject] {
         let gamesResponse = try await gamesService.fetchGames()
         // lets convert games response to TimeLine
-         // the output timeline will be [date1, COMP1, game1, game2, COMP2, game3, date2, COMP3, game4, .......]
+        // the output timeline will be [date1, COMP1, game1, game2, COMP2, game3, date2, COMP3, game4, .......]
          
         // first lets prepare competitions so can be accessed via key,value with o(1)
          var competitions = [Int: Competition]()
@@ -47,7 +46,7 @@ class GamesTimeLineManager: TimeLineManagerProtocol {
              }
          }
          
-         //now data is prepared its time to return the time line
+        //now data is prepared its time to return the time line
         return populateTimeLine(gamesByDay: gamesByDay, competitions: competitions)
     }
     

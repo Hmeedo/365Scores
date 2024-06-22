@@ -22,7 +22,9 @@ class APIServiceMock: APIServiceProtocol {
 
 class APIService: APIServiceProtocol {
     func getGamesData() async throws -> Data {
-        let url = URL(string: "http://demo2170822.mockable.io/assignment")!
+        guard let url = URL(string: "http://demo2170822.mockable.io/assignment") else {
+            throw APIService.APIError.invalidURL
+        }
         let (data, _) = try await URLSession.shared.data(from: url)
         return data
     }

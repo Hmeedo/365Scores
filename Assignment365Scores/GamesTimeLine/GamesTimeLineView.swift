@@ -30,7 +30,7 @@ class GamesTimeLineViewController: UITableViewController, GamesTimeLineViewProto
         self.tableView.backgroundView = nil
         let alertController = UIAlertController(title: "Error", message: error, preferredStyle: .alert)
         alertController.addAction(UIAlertAction(title: "Try Again", style: .default, handler: { [weak self] _ in
-            self?.presenter.fetchData()
+            self?.presenter.reloadButtonPressed()
         }))
         self.present(alertController, animated: true)
     }
@@ -56,7 +56,7 @@ extension GamesTimeLineViewController {
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        presenter.numberOfRowsInSection(section)
+        presenter.numberOfTimeLineObjects()
     }
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
